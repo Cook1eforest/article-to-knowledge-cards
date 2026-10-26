@@ -1,0 +1,17 @@
+# macOS metadata
+.DS_Store
+._*
+__MACOSX/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Local installed copy; maintain the source in make-knowledqe-cards/
+.agents/skills/make-knowledqe-cards/
+
+# Temporary editor files
+*.tmp
+*.swp
+*~
